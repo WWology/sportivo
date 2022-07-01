@@ -1,0 +1,32 @@
+{
+	"recommendations": [
+		"johnpapa.angular2",
+		"formulahendry.auto-close-tag",
+		"formulahendry.auto-rename-tag",
+		"usernamehw.errorlens",
+		"aaron-bond.better-comments",
+		"wayou.vscode-todo-highlight",
+		"formulahendry.auto-complete-tag",
+		"steoates.autoimport",
+		"pranaygp.vscode-css-peek",
+		"visualstudioexptteam.vscodeintellicode",
+		"ecmel.vscode-html-css",
+		"eamodio.gitlens",
+		"codezombiech.gitignore",
+		"donjayamanne.githistory",
+		"mhutchie.git-graph",
+		"gruntfuggly.todo-tree",
+		"shyykoserhiy.vscode-spotify",
+		"redhat.vscode-yaml",
+		"natqe.reload",
+		"esbenp.prettier-vscode",
+		"christian-kohler.path-intellisense",
+		"quicktype.quicktype",
+		"ryu1kn.partial-diff",
+		"christian-kohler.npm-intellisense",
+		"eg2.vscode-npm-script",
+		"metaseed.metago",
+		"metaseed.metajump",
+		"metaseed.MetaWord"
+	]
+}
